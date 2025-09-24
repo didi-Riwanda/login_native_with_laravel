@@ -200,3 +200,10 @@ Tata cara buat api login dari laravel native :
                 - di tab Authorization, pilih Auth Type nya Bearer Token
                 - masukkan token dari method post yang berhasil tadi, 
                     - access_token": "1|D2ksWA67LyQEf15p1xFxvQaqKY4cRsdtTn0Un24ya8de4c60",
+
+            c. Logout
+                - ketik 'http://localhost:8000/api/logout'
+                - method nya POST
+                - di tab Authorization, pilih Auth Type nya Bearer Token
+                - masukkan token dari method post yang berhasil tadi, 
+                    - access_token": "1|D2ksWA67LyQEf15p1xFxvQaqKY4cRsdtTn0Un24ya8de4c60",
